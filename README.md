@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there I am Saman 👋
+
+I’m a data engineer who loves Python, Dogs, and ☕️.
+
+- 👯 I’m looking to collaborate on Data pipeline development projects or Web development. Mainly focused on PySpark, Airflow, Django, FastAPI.
+
+- 📫 Do you want my CV or want to collaborate: [email](mailto:ing.sami.beygi@gmail.com)
 
 <!--
 **Mohammadreza-Beygifard/Mohammadreza-Beygifard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
