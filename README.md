@@ -20,10 +20,10 @@ My official name is Mohammadreza Beygifard, but you can call me Saman.
 
 I’m a data engineer who loves Python, Dogs, and ☕️.
 
-- 💻 I’m currently working as Data Engineer II @ [Stellantis](https://www.stellantis.com/en).
+- 💻 I’m currently working as Data Engineer II @ [Adyen](https://www.adyen.com/).
 - 👯 I’m looking to collaborate on Data pipeline development projects or Web development. Mainly focused on BigData, PySpark, Airflow, Django, FastAPI.
 - 💬 I write time to time about challenges and my experience in [Medium](https://medium.com/@mohammadreza-beygifard).
-- ▶️ I make tutorials about Data engineering and Web development topics in Youtube as [SamanExplores](https://www.youtube.com/@SamanExplores).
+- ▶️ I make tutorials about Data engineering and Web development topics on YouTube as [SamanExplores](https://www.youtube.com/@SamanExplores).
 
 ### 📫 Connect with Me
 
